@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @artichemist
-- 👀 I’m interested in alchemy.
-- 🌱 I’m currently learning alchemy.
-- 💞️ I’m looking to collaborate on alchemy.
+- 👀 I’m interested in Alchemy.
+- 🌱 I’m currently learning Alchemy.
+- 💞️ I’m looking to collaborate on Alchemy.
 - 📫 How to reach me artichemist@gmail.com.
 
 <!---
